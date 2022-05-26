@@ -1,0 +1,33 @@
+html{
+    background-color: plum;
+}
+header{
+    background-color: white;
+    height: 115px;
+    margin: 5px;
+    position: static;
+}
+.R{
+    color: purple;
+}
+main{
+    background-color: rgb(242, 248, 209);
+    height: 230px;
+}
+.F{
+    color: purple;
+}
+.a{
+    color: purple;
+}
+article{
+    background-color:rgb(242, 248, 209);
+    height: 450px;
+}
+footer{
+    background-color: rgb(242, 248, 209);
+}
+form{
+    size: 5px;
+    font: Arial;
+}

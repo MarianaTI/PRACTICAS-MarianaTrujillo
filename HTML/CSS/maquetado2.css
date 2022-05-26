@@ -1,0 +1,86 @@
+header{
+    background-color: rgb(107, 107, 219);
+    width: 750px;
+    height: 250px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+.banner{
+    background-color: white;
+    width: 500px;
+    height: 240px;
+    border: 10px;
+    float: left;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    background-color: white;
+    width: 230px;
+    height: 240px;
+    border: 10px;
+    float: left;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+nav{
+    background-color: rgb(76, 173, 81);
+    width: 750px;
+    height: 50px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+main{
+    background-color: burlywood;
+    width: 750px;
+    height: 400px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+aside{
+    background-color: white;
+    width: 450px;
+    height: 390px;
+    border: 10px;
+    float: left;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+article{
+    background-color: white;
+    width: 280px;
+    height: 390px;
+    border: 10px;
+    float: left;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    background-color: rgb(247, 243, 12);
+    width: 750px;
+    height: 50px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+body{
+    width: 750px;
+    height: 750px;
+    margin: 0 auto;
+    background-color: gray;
+}
